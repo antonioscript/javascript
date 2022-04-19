@@ -1,2 +1,2 @@
 # javascript
- Comanddos e Sintaxe Básica em Javascript
+ Comandos e Sintaxe Básica em Javascript
