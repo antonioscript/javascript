@@ -1,2 +1,3 @@
 # javascript
- Comandos e Sintaxe Básica em Javascript
+ Basic Javascript Commands and Syntax
+ PS: This is not a project, just a simple guide
